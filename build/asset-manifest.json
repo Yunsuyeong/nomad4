@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nomad4/static/css/main.a95e77e9.css",
+    "main.js": "/nomad4/static/js/main.46071b2e.js",
+    "index.html": "/nomad4/index.html",
+    "main.a95e77e9.css.map": "/nomad4/static/css/main.a95e77e9.css.map",
+    "main.46071b2e.js.map": "/nomad4/static/js/main.46071b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95e77e9.css",
+    "static/js/main.46071b2e.js"
+  ]
+}
